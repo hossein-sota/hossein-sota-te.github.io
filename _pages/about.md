@@ -6,7 +6,7 @@ subtitle: Computer Vision Research Engineer
 
 profile:
   align: false
-  image: avatar2.jpg
+  image: avatar3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>quote of the month: </p>
