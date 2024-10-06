@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Vision Research Engineer, Tehran, Iran
+subtitle: Computer Vision Research Engineer
 
 profile:
   align: false
   image: avatar1.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
   <p>quote of the month: </p>
     <p>You never fail untill you stop trying.</p>
