@@ -1,16 +1,18 @@
 ---
 layout: page
-title: submenus
+title: My classes
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
+  - title: Pyhton (Fund)
     permalink: /publications/
   - title: divider
-  - title: projects
+  - title: Pyhton (Inter)
     permalink: /projects/
   - title: divider
-  - title: blog
+  - title: Machine Learning
+    permalink: /blog/
+  - title: Deep Learning
     permalink: /blog/
 ---
