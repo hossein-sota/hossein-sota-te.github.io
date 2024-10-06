@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📢 **Upcoming Online Presentation Series** 📅
-
-📅 I will be hosting an online presentation series on **October 10th** about **NeRF** and **Gaussian Splatting**. The slides will be made public as soon as possible! Stay tuned! 
+📢 **Online Presentation** on **NeRF & Gaussian Splatting** at **Dr. Nasihatkon's lab** - **Oct 10**. Slides & video soon! Ping me to join! 🙋‍♂️
