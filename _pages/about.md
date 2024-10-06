@@ -18,13 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# Research Interests
+### Research Interests:
 
 - 🔍 **Computer Vision** (Detection, Segmentation)
-- 🤖 **Meta Learning** (Continual/Few-shot)
+- 🤖 **Meta Learning** (Continual learning, Few-shot learning, Transfer learning, Domain Adaptation)
 - 🏞️ **3D Vision** (NeRF, 3D/4D Gaussian Splatting)
-- 🧠 **Self-supervised Learning**
-- 📚 **Vision Language Models**
+- 🧠 **Self-supervised Learning** (Contrastive learning)
+- 📚 **Vision Language Models** (Text-Image Alignment)
 - 🏥 **Medical Imaging**
 
 
