@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-My paper got accepted at WACV 2025! :sparkles: :smile:
+📢 **Upcoming Online Presentation Series** 📅
+
+📅 I will be hosting an online presentation series on **October 10th** about **NeRF** and **Gaussian Splatting**. The slides will be made public as soon as possible! Stay tuned! 
