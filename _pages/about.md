@@ -5,7 +5,7 @@ permalink: /
 subtitle: Computer Vision Research Engineer, Tehran, Iran
 
 profile:
-  align: right
+  align: false
   image: avatar1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
