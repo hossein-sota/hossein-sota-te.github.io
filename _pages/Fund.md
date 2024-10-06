@@ -3,9 +3,23 @@ layout: page
 permalink: /fund/
 title: Python(Fund)
 description: fundamentals of python programming.
-nav: flase
+nav: false
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Python Introductory Course Description 🐍
 
-Organize your courses by years, topics, or universities, however you like!
+This course consists of **12 sessions** of **1.5 hours** each, along with a few sessions for exercises and problem-solving. 💡
+
+Almost every session involves a practice assignment that participants must complete, and then they receive feedback. 🔄 The exercises are reviewed and discussed in class as well. 📝
+
+### Some of the Topics Covered in the Introductory Course Include:
+
+- 📦 **Variables**
+- 🔄 **Data Type and Type Conversion**
+- ➕ **Operators** (Arithmetic/Comparison/Logical)
+- 🔤 **Strings**
+- 🔀 **Conditional Statements**
+- 🔁 **Loops** (while, for)
+- 📞 **Functions**
+- 🚨 **Exception Handling**
+- 📚 **Collections** (List, Tuple, Set, Dictionary)
