@@ -6,10 +6,10 @@ subtitle: Computer Vision Research Engineer
 
 profile:
   align: false
-  image: avatar1.jpg
+  image: avatar2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>quote of the month: </p>
+    <p>quote of the month: </p>
     <p>You never fail untill you stop trying.</p>
     <p>Albert Einstein</p>
 
