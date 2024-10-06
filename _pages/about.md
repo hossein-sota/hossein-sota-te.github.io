@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 ### Research Interests:
 
 - 🔍 **Computer Vision** (Detection, Segmentation)
-- 🤖 **Meta Learning** (Continual learning, Few-shot learning, Transfer learning, Domain Adaptation)
+- 🤖 **Meta Learning** (Continual learning, Few-shot learning, Knowledge transfer)
 - 🏞️ **3D Vision** (NeRF, 3D/4D Gaussian Splatting)
 - 🧠 **Self-supervised Learning** (Contrastive learning)
 - 📚 **Vision Language Models** (Text-Image Alignment)
