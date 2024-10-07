@@ -35,6 +35,15 @@ Currently, my main interests lie in meta-learning and 3D vision, which I believe
 - 📚 **Vision Language Models** (Text-Image Alignment)
 - 🏥 **Medical Imaging**
 
+# Life Interests
+
+- **Presentation**: I love sharing ideas and making complex topics easier to understand. Whether I'm in a classroom or online, creating engaging presentations is something I really enjoy. 🎤✨
+
+- **Teaching**: Teaching is a big part of my life, and it’s honestly one of the most rewarding experiences. 📚🤝
+
+- **Solving Problems**: I get excited by the challenge of tackling tricky problems, whether it's in research or real-world applications. It’s all about finding that "lightbulb" moment! 🔍💡
+"""
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
