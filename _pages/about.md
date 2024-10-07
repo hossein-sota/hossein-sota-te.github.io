@@ -25,6 +25,7 @@ social: true # includes social icons at the bottom of the page
 There’s a big difference between knowing something and teaching it! 
 
 🔍 On the research side, I love diving into a variety of fascinating papers, even those outside my primary focus, as it keeps my curiosity alive and fuels my passion for both teaching and research. 
+
 🤖 Currently, my main interests lie in meta-learning and 3D vision, which I believe are crucial steps toward achieving Artificial General Intelligence (AGI). 
 
 
