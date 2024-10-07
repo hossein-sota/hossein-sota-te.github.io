@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📺 Starting a YouTube channel to review SOTA computer vision papers. Feel free to share recommendations!
+📺 I want to start a YouTube channel to review SOTA computer vision papers. Feel free to share recommendations!
