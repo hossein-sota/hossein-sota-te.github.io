@@ -646,3 +646,8 @@ jsonresume:
   - languages
   - interests
   - references
+
+  image_sliders:
+  - example_slider
+
+  image_sliders_load_all: true
