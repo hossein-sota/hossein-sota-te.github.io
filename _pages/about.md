@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Vision Research Engineer
+subtitle: Hey! My webpage is being updated. Sorry for any glitches. Thanks for your patience!
+
 
 profile:
   align: false
