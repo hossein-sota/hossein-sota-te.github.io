@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hey! My webpage is being updated. Sorry for any glitches. Thanks for your patience!
+subtitle: Hey! My webpage is being updated. Sorry for any glitches.
 
 
 profile:
