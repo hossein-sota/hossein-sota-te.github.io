@@ -9,3 +9,5 @@ nav_order: 4
 
 image_sliders:
   - example_slider
+
+{% include slider.html selector="example_slider" %}
