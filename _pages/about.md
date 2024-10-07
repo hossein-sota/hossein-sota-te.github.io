@@ -20,6 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ✨ I’m a dedicated deep learning researcher and online instructor who enjoys exploring new ideas and tackling interesting challenges. 
+
 👨🏻‍🏫 Presentation and teaching are significant parts of my life, as they allow me to connect with others, share knowledge, and deepen my own understanding. 
 There’s a big difference between knowing something and teaching it! 
 
@@ -42,5 +43,5 @@ There’s a big difference between knowing something and teaching it!
 
 - 👨🏻‍🏫 **Teaching**: Teaching is a big part of my life, and it’s honestly one of the most rewarding experiences.
 
-- 💡 **Solving Problems**: I get excited by the challenge of tackling tricky problems, whether it's in research or real-world applications. It’s all about finding that "lightbulb" moment!💡
+- 💡 **Solving Problems**: I get excited by the challenge of tackling tricky problems, whether it's in research or real-world applications. It’s all about finding that "lightbulb" moment!
 """
